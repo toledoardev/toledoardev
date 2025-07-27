@@ -1,9 +1,9 @@
 # Welcome, I'm Alejandro Toledo
 
 ### About Me
-👨‍💻 I'm a Full Stack Developer specialized in .NET and Angular.  
-📚 🧠 📝 📖 I enjoy building things and learning new technologies.  
-🧩 🏗️ 🏛️ Currently focused on learning software architecture and design patterns. 
+I'm a Full Stack Developer specialized in .NET and Angular.  
+I enjoy building things and learning new technologies.  
+Currently focused on learning software architecture and design patterns. 
 
 ### Technologies
 <div align="left">
