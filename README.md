@@ -1,17 +1,17 @@
 # Welcome, I'm Alejandro Toledo
 
 ### About Me
-💻 I'm a Full Stack Developer specialized in .NET and Angular.  
-🚀 I enjoy building things and learning new technologies.  
-📚 Currently focused on learning software architecture and design patterns. 
+👨‍💻 I'm a Full Stack Developer specialized in .NET and Angular.  
+📚 🧠 📝 📖 I enjoy building things and learning new technologies.  
+🧩 🏗️ 🏛️ Currently focused on learning software architecture and design patterns. 
 
 ### Technologies
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"/>
   <img width="12"/>
