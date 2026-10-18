@@ -33,19 +33,11 @@ Currently focused on learning software architecture and design patterns.
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
 <div/>
