@@ -15,21 +15,11 @@ Currently focused on learning software architecture and design patterns.
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/>
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="claude logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"/>
   <img width="12"/>
